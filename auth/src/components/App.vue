@@ -33,9 +33,6 @@
             </div>
             <div class="form_wrap_bg"></div>
         </div>
-        <div class="login_copyright">
-            Copyright©2021 网信安全 All Rights Reserved .
-        </div>
     </div>
 </template>
 <script>
